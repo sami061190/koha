@@ -1,4 +1,4 @@
 koha
 ====
 
-need patches for koha
+Needed patches for koha
